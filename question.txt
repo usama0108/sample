@@ -1,0 +1,43 @@
+Explain features of CopyOnWriteArrayList
+
+Some string programs , mutithreading related questions, hashmap implementation, linked lists, design pattern like builder, factory etc 
+
+this, prototype, css margin
+Basic OOPS concepts. The interviewer seemed new to the interview process. The questions were too basic.
+
+1.how the program is executed?
+         2.what is sprintf?
+        3.objects in datbase
+        4.normalisation
+
+DS,DAA ,OS,threads,process,projects  
+
+Finding subset of an array in another array?  
+1 Answer
+Given a string C2B3A1 then print the following.
+CCBBBA  
+
+ 
+ 
+What is foreign key?
+find loop in linkedlist?
+Difference between array list and linkedlist?
+Difference between stack memory and heap memory?
+What is deadlock?
+Which collection list is thread safe?
+Why destructor cannot be overloaded?
+Check whether binary tree is binary search tree?
+Write code for quicksort?
+
+I was asked to design and code a music player app. It was  an open ended question and they expected interfaces, classes and even code
+
+2.we were given to write about "social media influence on youth"
+3.
+        1.how the program is executed?
+         2.what is sprintf?
+        3.objects in datbase
+        4.normalisation
+4.In GD we were given topic about "smart cities"
+5.Managerial -be open about your carrer goals and know about the company well
+6.Presentation topic was our choice.... i chose "AI".
+7.Bio data...be confident while expressing  
