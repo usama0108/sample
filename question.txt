@@ -41,3 +41,4 @@ I was asked to design and code a music player app. It was  an open ended questio
 5.Managerial -be open about your carrer goals and know about the company well
 6.Presentation topic was our choice.... i chose "AI".
 7.Bio data...be confident while expressing  
+ok
